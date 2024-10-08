@@ -1,7 +1,0 @@
-* 
-!*.cpp
-!*.py
-!*.sh
-!*.md
-!*.h
-!.gitignore
